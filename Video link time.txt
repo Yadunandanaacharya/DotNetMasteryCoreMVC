@@ -1,3 +1,44 @@
 https://www.youtube.com/watch?v=AopeJjkcRvU&t=118s&ab_channel=DotNetMastery
+webdevmastery  dotnetmastery both are good
 
-time: 56:55
+time: 5:11
+#. till 3:37:00 .net core mvc after that .net core razor pages
+#. connection string
+#. save .cshtml in visual studio to appear content in browser what to do?
+#. passed id from one page to other using asp-route-id="@obj.Id"  -id custom typed
+#. used partial view for notification
+#. used toaster for notification disapper after 3seconds
+#. when entity framework corrupt what to do time: 4:43:51
+#. dependency injectio singleton transiten scoped example 4:46:37  very good
+#. repository pattern 4:57:41
+===============================================================================================
+===============================================================================================
+#. till 3:37:00 .net core mvc after that .net core razor pages
+
+
+
+#. connection string
+*. in sql server if you use . or localhost it won't connect it gives error 
+so use: server name as: localhost\SQLEXPRESS
+
+In localhost\SQLEXPRESS  here SQLEXPRESS name you have to add or not based on
+seeing in 'services.msc' there SQL SERVER(either sqlexpress or mysqldb) 
+based on what we installed it comes in services.msc
+
+
+#. save .cshtml in visual studio to appear content in browser what to do?
+first run visual studio
+next go back visual studio when app runs in browser
+now in visual studio you'll see "Continue" button right side to that you see 
+fire icon with dropdown arrow click on it
+
+next select option "hot reload on file save"
+with this if you do any changes in cshtml file then save it refreshed browser
+we don't have close browser and re run visual studio
+
+#. used toaster for notification disapper after 3seconds
+toaster by codeseven
+js library search in google for that cdn is there
+
+#. repository pattern 4:57:41
+repository implement in categoryrepository 5:15:00

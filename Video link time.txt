@@ -1,7 +1,7 @@
 https://www.youtube.com/watch?v=AopeJjkcRvU&t=118s&ab_channel=DotNetMastery
 webdevmastery  dotnetmastery both are good
 
-time: 5:11
+time: 6:3:00
 #. till 3:37:00 .net core mvc after that .net core razor pages
 #. connection string
 #. save .cshtml in visual studio to appear content in browser what to do?
@@ -11,6 +11,11 @@ time: 5:11
 #. when entity framework corrupt what to do time: 4:43:51
 #. dependency injectio singleton transiten scoped example 4:46:37  very good
 #. repository pattern 4:57:41
+#. 5:25:00 changing project name handling through out solving issues with new name
+#. 5:32:00 how to add unit of work design for same project 
+#. 5:43:00 adding separate admin customer Area and put Category inside Admin
+#. 5:47: add dropdown
+#. 6:03:00 adding product similar to category
 ===============================================================================================
 ===============================================================================================
 #. till 3:37:00 .net core mvc after that .net core razor pages
